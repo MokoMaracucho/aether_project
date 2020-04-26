@@ -1,4 +1,8 @@
 # aether_project
 
 Tutos :
-- https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/23108-creez-votre-premiere-fenetre
+- Création du projet Maven : maven-archetype-quickstart
+  https://drogago.net/javafxmavenspring-step-by-step/
+- Maven -> Spring Boot :
+  https://drogago.net/javafxmavenspring-step-by-step/
+  
